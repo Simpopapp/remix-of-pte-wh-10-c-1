@@ -1,0 +1,201 @@
+{
+  "type": "lst_mcq",
+  "task_type": "Listening MCQ Single",
+  "section": "listening",
+  "total": 6,
+  "generated_at": "2026-10-05",
+  "questions": [
+    {
+      "text": "Today's lecture focuses on the impact of urbanization on biodiversity. As cities expand, they fragment habitats and reduce the connectivity that many species depend on for migration and genetic exchange. Studies in five major metropolitan areas have shown that bird species diversity drops sharply within the urban core, though some species — like crows, pigeons, and certain raptors — actually thrive in these environments. The lesson for urban planners is that thoughtful design, including green corridors that connect parks, can substantially reduce the biodiversity cost of urban growth.",
+      "id": "pte-lst_mc-fa949a2e",
+      "answer": 1,
+      "options": [
+        "Stopping all urban expansion immediately.",
+        "Designing green corridors that connect park spaces.",
+        "Removing all species that don't thrive in cities.",
+        "Building taller buildings to reduce city footprint."
+      ],
+      "explanation": "The lecturer explicitly says 'green corridors that connect parks, can substantially reduce the biodiversity cost'. Option B paraphrases this. A is extreme, C contradicts the lecture's nuanced view, D isn't mentioned.",
+      "trap": "Option D ('taller buildings') sounds like good urban planning but isn't in the lecture. Stick to what's explicitly said.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 88
+    },
+    {
+      "text": "Sleep researchers have demonstrated that memory consolidation occurs preferentially during specific stages of sleep, with deep slow-wave sleep being most important for fact and event memories, while REM sleep appears critical for emotional processing and creative problem-solving. This is why cutting sleep short by even an hour can disproportionately impair the type of learning that depends on REM, which is concentrated in the later half of the night. Students who pull all-nighters before exams may retain some surface material but typically perform worse on tasks requiring deeper integration of what they've learned.",
+      "id": "pte-lst_mc-d3641cd0",
+      "answer": 1,
+      "options": [
+        "Because they completely eliminate the ability to remember any information.",
+        "Because they disproportionately impair deeper learning that depends on REM sleep.",
+        "Because they reduce the brain's ability to absorb new material at all.",
+        "Because they damage long-term physical health."
+      ],
+      "explanation": "The lecturer says all-nighters affect 'tasks requiring deeper integration' and connects this to losing REM sleep. Option B captures this. A overstates ('completely'), C and D aren't said in the passage.",
+      "trap": "A is the extreme version of what was said. IELTS/PTE distractors often take a hedged claim and make it absolute.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 92
+    },
+    {
+      "text": "I want to introduce the concept of opportunity cost, which is fundamental to economic thinking. The opportunity cost of any choice is the value of the next best alternative you give up. For example, if you choose to spend an hour studying instead of working, the opportunity cost is the wages you would have earned. This concept is often invisible because it's about what you don't see — the path not taken. But ignoring opportunity costs leads to bad decisions. The discipline of asking 'what else could we be doing with these resources?' is at the heart of economic analysis.",
+      "id": "pte-lst_mc-744841d8",
+      "answer": 1,
+      "options": [
+        "It is the most expensive choice you could make.",
+        "It's important precisely because it's often invisible in decision-making.",
+        "It applies only to choices about money and wages.",
+        "It is a concept used mostly in personal finance, not in business."
+      ],
+      "explanation": "The lecturer emphasizes opportunity cost is 'often invisible' and that ignoring it 'leads to bad decisions' — option B captures the importance + invisibility paradox. A misdefines it, C limits the scope wrongly, D narrows the application.",
+      "trap": "C is tempting because the example given uses wages. But the lecturer presents it as broadly applicable, not money-only.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 100
+    },
+    {
+      "text": "The history of antibiotics provides a striking example of both medical triumph and unintended consequence. Penicillin and its successors transformed bacterial infections from frequent killers into easily treatable conditions, dramatically extending life expectancy in the twentieth century. However, widespread use — and overuse — created selective pressure for resistant bacterial strains. Today, the World Health Organization considers antimicrobial resistance one of the most serious threats to global health, with researchers in a race to develop new antibiotics before existing ones become ineffective.",
+      "id": "pte-lst_mc-b2550b3d",
+      "answer": 1,
+      "options": [
+        "Antibiotics are no longer useful as a treatment for any infection.",
+        "Antibiotics have been a major triumph but have created new problems through overuse.",
+        "Antibiotics should be banned to prevent further resistance.",
+        "Antibiotics are entirely safe and have no downsides."
+      ],
+      "explanation": "The lecturer presents BOTH the triumph and the resistance problem — option B captures this duality. A overstates, C is extreme, D contradicts.",
+      "trap": "A and D are both extreme positions. The lecturer's argument is the balanced one in the middle — typical of academic speech.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 82
+    },
+    {
+      "text": "In today's session we'll discuss confirmation bias, which is the human tendency to seek out, interpret, and remember information that confirms our existing beliefs. This bias affects everyone, regardless of intelligence or education, and explains many phenomena we observe in modern society — from political polarization to the spread of misinformation. Importantly, simply telling people about confirmation bias is rarely enough to overcome it. The most effective interventions involve structured techniques that force consideration of contrary evidence, such as deliberately seeking out the strongest case for opposing views.",
+      "id": "pte-lst_mc-5c7472cd",
+      "answer": 2,
+      "options": [
+        "Educating people about its existence is usually sufficient.",
+        "Avoiding all media that might present opposing views.",
+        "Using structured techniques to force consideration of contrary evidence.",
+        "Trusting that intelligent people don't suffer from this bias."
+      ],
+      "explanation": "The lecturer explicitly says 'most effective interventions involve structured techniques that force consideration of contrary evidence' — option C paraphrases this. A contradicts (the lecturer says education alone is rarely enough), B is the opposite of the recommendation, D contradicts the 'everyone' claim.",
+      "trap": "A is what you might intuitively think (more awareness = solution) — but the lecturer specifically rebuts this. Active listening for refutations matters.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 88
+    },
+    {
+      "text": "Recent advances in materials science have produced fabrics that can monitor health metrics like heart rate and respiration, generate small amounts of electricity from body motion, or even change color in response to temperature. These so-called smart textiles are moving from research labs into commercial products faster than many anticipated. Athletic apparel manufacturers are already integrating sensors into garments, and medical applications — particularly for elderly care monitoring — represent a substantial growth area. However, questions about durability through repeated washing, manufacturing scalability, and the lifecycle environmental impact remain open challenges.",
+      "id": "pte-lst_mc-c0a02a4c",
+      "answer": 1,
+      "options": [
+        "The technology is decades away from being commercially viable.",
+        "Durability through washing, manufacturing scale, and environmental impact.",
+        "Smart textiles have been entirely rejected by the athletic industry.",
+        "Only medical applications are practical; consumer use is impossible."
+      ],
+      "explanation": "The lecturer lists 'durability through repeated washing, manufacturing scalability, and the lifecycle environmental impact' as open challenges. Option B captures this. A contradicts ('moving from labs to products'), C and D contradict the lecturer's commercial-progress framing.",
+      "trap": "A reverses the lecturer's actual claim that smart textiles are commercializing quickly.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 91
+    },
+    {
+      "text": "Today we examine why some public-health campaigns succeed where others fail. The most reliable predictor is not the budget but the specificity of the behaviour requested. Campaigns that ask people to 'eat healthier' change almost nothing, while campaigns that ask for one concrete action — adding a vegetable to dinner, taking the stairs twice a day — produce measurable shifts. The explanation lies in what psychologists call the intention-action gap: vague goals are never translated into the small decisions of daily life. Governments that pair a specific behaviour with a reminder tied to an existing routine, such as brushing teeth, get compounding effects at trivial cost.",
+      "id": "pte-lst_mc-0eb190da",
+      "answer": 1,
+      "options": [
+        "Reducing the campaign budget and relying on word of mouth.",
+        "Requesting one specific behaviour tied to an existing daily routine.",
+        "Asking the public to eat healthier and exercise more often.",
+        "Targeting the youngest audience segment possible."
+      ],
+      "explanation": "Option B paraphrases what the lecture explicitly says; the alternatives distort, contradict or invent claims.",
+      "trap": "Options are written to sound plausible while changing a qualifier or inventing a detail. Stick to what was explicitly said.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 106
+    },
+    {
+      "text": "The lecture today traces the concept of the commons. Garret Hardin argued in 1968 that shared resources are doomed to overuse, because each user captures the full benefit of exploiting them while sharing the cost of depletion. Elinor Ostrom spent her career showing this prediction fails where communities govern themselves: fisheries in Japan, irrigation systems in Spain and forests in Nepal have been sustainably managed for centuries under locally written rules, enforced by the users themselves. Her findings do not deny the tragedy of the commons; they show that it is one possible outcome, not an inevitable one, and that local monitoring and graduated sanctions are what avert it.",
+      "id": "pte-lst_mc-fd12a72b",
+      "answer": 1,
+      "options": [
+        "Communal resources inevitably collapse, as Hardin's 1968 essay predicted.",
+        "Communities with locally written rules and their own enforcement can sustain shared resources for centuries.",
+        "Government nationalisation is the only proven way to prevent overuse of shared resources.",
+        "Ostrom's fieldwork found no exception to Hardin's prediction anywhere she studied."
+      ],
+      "explanation": "Option B paraphrases what the lecture explicitly says; the alternatives distort, contradict or invent claims.",
+      "trap": "Options are written to sound plausible while changing a qualifier or inventing a detail. Stick to what was explicitly said.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 109
+    },
+    {
+      "text": "Cuneiform, the writing system of ancient Mesopotamia, was pressed into clay tablets, and clay does not rot. That accident of material is why we know more about everyday life in Babylon than in classical Athens, whose texts survive only in copies made centuries later. Sumerian school exercises record trainee scribes practising lists of words; merchant letters record complaints about late deliveries; court records document disputes over escaped oxen. These tablets were never written for posterity — they were receipts, homework and contracts. The lesson for historians is that permanence depends less on importance than on medium, and entire genres of Babylonian literature may have existed on leather and wood that decayed without trace.",
+      "id": "pte-lst_mc-25653f6e",
+      "answer": 2,
+      "options": [
+        "Cuneiform was deliberately designed to preserve literature for future generations.",
+        "Classical Athens produced no everyday records because scribes were rare and expensive.",
+        "We know Babylonian daily life in detail mainly because clay survived, while perishable media carried texts that are now lost.",
+        "Babylonian scribes practised on leather scrolls before moving to clay tablets."
+      ],
+      "explanation": "Option C paraphrases what the lecture explicitly says; the alternatives distort, contradict or invent claims.",
+      "trap": "Options are written to sound plausible while changing a qualifier or inventing a detail. Stick to what was explicitly said.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 113
+    },
+    {
+      "text": "Sleep researchers have documented what they call social jetlag: the mismatch between the body clock and the schedule imposed by work and school. Night owls forced into early shifts carry a permanent two-hour time difference without crossing any time zone, and the metabolic consequences — weight gain, higher blood pressure — resemble those of actual jetlag repeated weekly. The effect is measurable in grades as well: students whose schedules align with their chronotype outperform equally able students whose schedules do not. Because chronotype is largely genetic, the researchers argue that institutions, not individuals, should adapt — a proposal that schools in a few districts have begun testing with later start times.",
+      "id": "pte-lst_mc-fe4c3b29",
+      "answer": 1,
+      "options": [
+        "Social jetlag affects only people who travel frequently across time zones.",
+        "Night owls forced onto early schedules suffer measurable metabolic and academic effects, leading researchers to propose adapting institutions instead.",
+        "Chronotype is determined entirely by habit, so rigid schedules eventually train anyone into synchrony.",
+        "Later school start times lowered grades in the districts that piloted them."
+      ],
+      "explanation": "Option B paraphrases what the lecture explicitly says; the alternatives distort, contradict or invent claims.",
+      "trap": "Options are written to sound plausible while changing a qualifier or inventing a detail. Stick to what was explicitly said.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 111
+    },
+    {
+      "text": "Astronomers once assumed the universe's expansion was slowing under gravity, and measuring the slowdown was the goal of two competing teams in the 1990s. Both teams found the opposite: distant supernovae were dimmer than expected, implying the expansion has accelerated for billions of years. The implied ingredient, dubbed dark energy, now accounts for roughly seventy percent of the universe's energy content, yet its physical nature is entirely unknown. The lecture emphasises the epistemological lesson rather than the mystery itself: two rival groups, each trying to falsify the other, were forced to the same uncomfortable conclusion, which is precisely how measurement should work in science.",
+      "id": "pte-lst_mc-b802c73a",
+      "answer": 2,
+      "options": [
+        "The 1990s supernova surveys confirmed that gravity was slowing the universe's expansion as predicted.",
+        "Dark energy has been identified as a form of ordinary matter under extreme pressure.",
+        "Rival teams seeking the expansion slowdown both discovered acceleration instead, revealing an energy component whose nature remains unknown.",
+        "Dark energy accounts for nearly all of the universe's matter but none of its energy."
+      ],
+      "explanation": "Option C paraphrases what the lecture explicitly says; the alternatives distort, contradict or invent claims.",
+      "trap": "Options are written to sound plausible while changing a qualifier or inventing a detail. Stick to what was explicitly said.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 104
+    },
+    {
+      "text": "Conspiracy theories are usually blamed on ignorance, but research suggests the stronger driver is a need for control. When people feel powerless — after job loss, disaster or political upheaval — belief in secret plots rises sharply, because a world steered by villains feels more predictable than a world governed by chaos. This explains an awkward finding: the same events often attract mutually contradictory theories, such as claims that a plane never crashed and that it was hidden elsewhere. What matters to believers is not internal consistency but the restoration of agency — the sense that someone, anyone, is in charge.",
+      "id": "pte-lst_mc-c4aa93b1",
+      "answer": 3,
+      "options": [
+        "Belief in conspiracies correlates strongly with formal education level, rising with each year of schooling.",
+        "Contradictory conspiracy theories never coexist, because believers demand logical consistency above all.",
+        "Feelings of power increase conspiracy belief, since confident people assert their interpretations more forcefully.",
+        "Conspiracy belief rises with powerlessness because an intentional plot feels more controllable than random chaos."
+      ],
+      "explanation": "Option D paraphrases what the lecture explicitly says; the alternatives distort, contradict or invent claims.",
+      "trap": "Options are written to sound plausible while changing a qualifier or inventing a detail. Stick to what was explicitly said.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 101
+    }
+  ]
+}

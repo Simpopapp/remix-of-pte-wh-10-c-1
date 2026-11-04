@@ -1,0 +1,208 @@
+{
+  "type": "describe_image",
+  "task_type": "Describe Image",
+  "section": "speaking",
+  "total": 6,
+  "questions": [
+    {
+      "id": "di-owid-01",
+      "topic": "Life Expectancy",
+      "image": "life-expectancy",
+      "title": "Life expectancy, 1543 to 2023",
+      "alt": "Line chart of life expectancy from 1543 to 2023 for many countries and the world; lines rise steeply during the twentieth century, with the world line reaching about 73 years in 2023.",
+      "text": "This line chart shows life expectancy from 1543 to 2023 for many countries, with the world average highlighted. The y-axis shows life expectancy in years and the x-axis shows the year. Most lines stay low and flat for centuries, then rise steeply during the twentieth century. World life expectancy has more than doubled, reaching about 73 years in 2023, compared with roughly 28 years in 1770. In 2023 the highest values are around 86 years, in countries such as Monaco, San Marino and Hong Kong, while the lowest are around 54 to 57 years, in countries such as Nigeria and Chad. Overall, the chart shows a dramatic global improvement, especially after 1900, but with a wide and persistent gap between countries.",
+      "source": "ourworldindata.org",
+      "word_count": 130
+    },
+    {
+      "id": "di-owid-02",
+      "topic": "Electricity by Source",
+      "image": "electricity-prod-source-stacked",
+      "title": "Electricity production by source, World, 2023",
+      "alt": "Stacked area chart of world electricity production by source, showing coal, gas and hydro dominating while solar and wind grow rapidly after 2000.",
+      "text": "This stacked area chart shows world electricity production by source over time. Fossil fuels still dominate: coal grew from about 5,800 terawatt-hours in 2000 to roughly 10,500 in 2023, and gas from about 2,700 to 6,900. Hydropower remains the largest low-carbon source, rising from 2,600 to about 4,400 terawatt-hours. The most striking change is the rapid growth of solar and wind after 2010: solar went from almost 1 terawatt-hour in 2000 to nearly 2,800 in 2023, and wind from about 30 to 2,700. Nuclear stayed roughly flat at around 2,800. The chart shows total electricity demand rising steeply, with renewables expanding quickly but from a low base.",
+      "source": "ourworldindata.org",
+      "word_count": 120
+    },
+    {
+      "id": "di-owid-03",
+      "topic": "Annual CO2 Emissions",
+      "image": "annual-co2-emissions-per-country",
+      "title": "Annual CO₂ emissions by country, 1750 to 2024",
+      "alt": "Line chart of annual CO2 emissions by country from 1750 to 2024; global emissions climb steeply after 1950 to about 38 billion tonnes in 2024.",
+      "text": "This line chart shows annual carbon dioxide emissions by country from 1750 to 2024. The world line starts near zero in the eighteenth century and climbs slowly until the twentieth century, then rises very steeply after 1950. In 2024 global emissions were about 38.6 billion tonnes of CO2, the highest level on the chart. Emissions briefly dipped around the 2009 financial crisis and in 2020 during the pandemic, but recovered quickly afterwards. A small number of large emitters account for most of the total, while many countries' lines stay close to the bottom throughout. The overall trend is a strong, sustained increase driven by industrialization and energy use.",
+      "source": "ourworldindata.org",
+      "word_count": 115
+    },
+    {
+      "id": "di-owid-04",
+      "topic": "Internet Users",
+      "image": "share-of-individuals-using-the-internet",
+      "title": "Share of the population using the Internet, 1990 to 2025",
+      "alt": "Line chart showing the share of the population using the Internet rising from under one percent in 1990 to almost 74 percent worldwide in 2025.",
+      "text": "This line chart shows the share of the population using the Internet from 1990 to 2025 for many countries and for the world. In 1990, fewer than one percent of people worldwide were online. The world line rises slowly through the 1990s, then climbs steeply from the mid-2000s onwards: about 16 percent in 2005, and nearly 74 percent by 2025. Some countries, such as Bahrain, Saudi Arabia and the United Arab Emirates, reach complete saturation, close to 100 percent of their populations. Other lines remain far lower, showing a persistent digital divide between richer and poorer countries. The main pattern is rapid, near-universal growth, especially after 2005.",
+      "source": "ourworldindata.org",
+      "word_count": 120
+    },
+    {
+      "id": "di-owid-05",
+      "topic": "Global Primary Energy",
+      "image": "global-primary-energy",
+      "title": "Global primary energy consumption by source",
+      "alt": "Stacked area chart of global primary energy consumption by source, with fossil fuels still the majority while solar and wind grow quickly after 2010.",
+      "text": "This stacked area chart shows global primary energy consumption by source, measured in terawatt-hours. Fossil fuels remain the majority: oil rose from about 43,000 terawatt-hours in 2000 to roughly 56,000, coal from 27,000 to 46,000, and gas from 24,000 to almost 42,000. Traditional biomass is the only source to fall, from about 12,500 to 11,000. Low-carbon sources grew fast but from a small base: solar went from almost nothing in 2000 to about 2,800 terawatt-hours, wind to 2,700, and hydropower from 2,600 to 4,500. Nuclear grew only slightly, from 7,800 to 8,600. The chart shows total energy use expanding strongly, with renewables rising quickly yet still supplying a small share of the total.",
+      "source": "ourworldindata.org",
+      "word_count": 120
+    },
+    {
+      "id": "di-owid-06",
+      "topic": "Measles Vaccination",
+      "image": "share-of-children-vaccinated-against-measles",
+      "title": "Share of children vaccinated against measles, first dose, 1980 to 2024",
+      "alt": "Line chart of the share of one-year-olds vaccinated against measles by country from 1980 to 2024; the world line rises from 16 percent in 1980 to 84 percent in 2024.",
+      "text": "This line chart shows the share of one-year-old children who received their first dose of the measles vaccine, by country, from 1980 to 2024. In 1980, only about 16 percent of children worldwide were vaccinated. The world line rises sharply through the 1980s and 1990s, reaching about 73 percent by 1990 and continuing upward, with a global coverage of 84 percent in 2024. Most national lines climb steeply after their vaccination programmes start, and many countries sit above 90 percent today. However, a visible gap remains: some lines stay much lower, well below the levels needed for herd immunity, which is around 95 percent. The chart shows one of the largest public health achievements of recent decades, with coverage still incomplete.",
+      "source": "ourworldindata.org",
+      "word_count": 130
+    },
+    {
+      "id": "di-ai-8dbc224e",
+      "topic": "Renewable electricity share",
+      "image": "renewable-share-electricity",
+      "title": "Renewable electricity share (dados ilustrativos)",
+      "alt": "Line chart of the share of world electricity generated from renewable sources, 1990 to 2023; the share rises steadily from 14 percent to 33 percent.",
+      "text": "This line chart shows the share of world electricity generated from renewable sources between 1990 and 2023, measured as a percentage of total generation on the y-axis. The share starts at 14 percent in 1990 and rises slowly through the 1990s and 2000s, remaining below 25 percent until the early 2010s. From about 2015 the growth accelerates, and by 2023 renewables generate 33 percent of the world's electricity. The chart therefore shows two phases: a long plateau and a recent surge, with roughly one percentage point of growth per year in the final decade.",
+      "source": "ai-generated-prediction",
+      "word_count": 94
+    },
+    {
+      "id": "di-ai-e3790715",
+      "topic": "Urban population share",
+      "image": "urban-population-share",
+      "title": "Urban population share (dados ilustrativos)",
+      "alt": "Line chart of the share of world population living in urban areas from 1950 to 2050, rising from 30 percent to a projected 68 percent; values after 2020 are projections.",
+      "text": "This line chart tracks the share of the world population living in urban areas from 1950 to 2050, with the y-axis showing percent urban. The line rises steadily from 30 percent in 1950, passes 50 percent shortly after 2005, and reaches 56 percent by 2020. From 2030 onward the values are projections, shown continuing the same slope to 68 percent by 2050. The key feature is that the trend is remarkably linear across a century, meaning humanity crossed from mostly rural to clearly urban during the lifetime of a single generation.",
+      "source": "ai-generated-prediction",
+      "word_count": 91
+    },
+    {
+      "id": "di-ai-8d1a541f",
+      "topic": "Coffee consumption per capita",
+      "image": "coffee-consumption-per-capita",
+      "title": "Coffee consumption per capita (dados ilustrativos)",
+      "alt": "Bar chart of annual per-capita coffee consumption in seven countries, led by Finland at 12 kilograms and lowest in the United Kingdom at 3.9 kilograms.",
+      "text": "This bar chart compares annual coffee consumption per person in seven countries, measured in kilograms on the y-axis. Finland leads decisively at 12 kilograms, followed by Norway at 10 and the Netherlands at 8.4. There is then a sharp drop: Brazil consumes 6.1, the USA 4.7, Japan 4.2 and the United Kingdom only 3.9 kilograms per person. The chart highlights the Nordic cluster at the top — Finland alone consumes roughly three times the British figure — while the remaining countries form a much flatter group between four and six kilograms.",
+      "source": "ai-generated-prediction",
+      "word_count": 91
+    },
+    {
+      "id": "di-ai-7bc4bf8e",
+      "topic": "Electric vehicle sales share",
+      "image": "ev-sales-share",
+      "title": "Electric vehicle sales share (dados ilustrativos)",
+      "alt": "Line chart of electric vehicles as a share of new car sales worldwide from 2015 to 2024, rising slowly until 2019 and then steeply to 32 percent.",
+      "text": "This line chart shows electric vehicles as a share of new car sales worldwide from 2015 to 2024, with the y-axis in percent of sales. Growth is almost flat in the first years: the share is 1 percent in 2015 and still only 4 percent by 2019. From 2020 the curve bends sharply upward, doubling to 9 percent, then 15, 21 and 26 percent, reaching 32 percent by 2024. The chart's message is an exponential adoption pattern: fifteen years of incremental growth compressed into one decade, with the steepest segment in the most recent years.",
+      "source": "ai-generated-prediction",
+      "word_count": 95
+    },
+    {
+      "id": "di-ai-100549c2",
+      "topic": "Global temperature anomaly",
+      "image": "global-temperature-anomaly",
+      "title": "Global temperature anomaly (dados ilustrativos)",
+      "alt": "Line chart of the global average surface temperature anomaly from 1960 to 2023, wobbling around zero until 1980 and rising to nearly 1 degree Celsius by 2023.",
+      "text": "This line chart plots the global average surface temperature anomaly from 1960 to 2023, in degrees Celsius relative to the 1961–1990 baseline. In the first two decades the line wobbles just above and below zero, with individual years dipping negative as late as the mid-1960s. From about 1980 the trend turns consistently upward, and the wiggles ride on a rising slope: 0.4 degrees by 2000, 0.58 around 2015 and almost 1 degree by 2023, the warmest point on the chart. The pattern shows both the volatility of individual years and the unmistakable long-term warming trend.",
+      "source": "ai-generated-prediction",
+      "word_count": 95
+    },
+    {
+      "id": "di-ai-fcd07877",
+      "topic": "Freshwater withdrawals by sector",
+      "image": "water-use-by-sector",
+      "title": "Freshwater withdrawals by sector (dados ilustrativos)",
+      "alt": "Donut chart of global freshwater withdrawals by sector: agriculture 69 percent, industry 19 percent and municipal use 12 percent.",
+      "text": "This donut chart divides global freshwater withdrawals into three sectors. Agriculture dominates with 69 percent of withdrawals, shown as by far the largest segment. Industry takes 19 percent, and municipal supply — households and services — accounts for the remaining 12 percent. The chart makes the scale of agricultural water use unmistakable: more than two-thirds of all freshwater withdrawn worldwide goes to farming, nearly four times the industrial share and more than five times what cities and households consume.",
+      "source": "ai-generated-prediction",
+      "word_count": 79
+    },
+    {
+      "id": "di-ai-1be8ca56",
+      "topic": "Adult literacy rate",
+      "image": "adult-literacy-rate",
+      "title": "Adult literacy rate (dados ilustrativos)",
+      "alt": "Line chart of the world adult literacy rate from 1950 to 2020, climbing steadily from 56 percent to 93 percent.",
+      "text": "This line chart shows the share of adults worldwide who can read and write, from 1950 to 2020. The y-axis runs from 40 to 100 percent. The line climbs with remarkable steadiness: 56 percent in 1950, about 70 percent by 1970, 81 percent in 1990 and 86 percent in 2000, before approaching saturation — 90 percent by 2010 and 93 percent by 2020. The most notable feature is the consistency of the improvement, roughly 0.6 percentage points per year over seventy years, with the curve only beginning to flatten in the final decade as the remaining share shrinks.",
+      "source": "ai-generated-prediction",
+      "word_count": 98
+    },
+    {
+      "id": "di-ai-157329e3",
+      "topic": "Air passengers carried",
+      "image": "air-travel-passengers",
+      "title": "Air passengers carried (dados ilustrativos)",
+      "alt": "Line chart of annual scheduled air passengers worldwide from 2004 to 2024 in billions, rising steadily to 4.5 billion before collapsing to 1.8 billion in 2020 and recovering to 4.6 billion.",
+      "text": "This line chart shows the number of passengers carried on scheduled commercial flights worldwide from 2004 to 2024, in billions. Traffic grows steadily through the 2000s and 2010s, from 2.1 billion to 4.5 billion by 2018. Then comes a dramatic outlier: in 2020 the line collapses to 1.8 billion, a fall of roughly sixty percent in a single year. Recovery follows almost as fast, with traffic regaining its previous peak of 4.6 billion by 2024. The chart is essentially two stories — smooth decade-long growth, and one vertical shock with an equally sharp rebound.",
+      "source": "ai-generated-prediction",
+      "word_count": 94
+    },
+    {
+      "id": "di-ai-48642dc8",
+      "topic": "Extreme poverty share",
+      "image": "extreme-poverty-share",
+      "title": "Extreme poverty share (dados ilustrativos)",
+      "alt": "Line chart of the share of world population living on less than 2.15 dollars per day from 1990 to 2023, falling from 38 percent to 9 percent.",
+      "text": "This line chart tracks the share of the world population living in extreme poverty, defined as less than 2.15 dollars per day, from 1990 to 2023. The decline is steep and remarkably steady: 38 percent in 1990, 29 percent in 2000, 18 percent in 2010 and 13 percent in 2015. The pace then moderates, partly reflecting the pandemic setback, reaching about 9 percent by 2023. The chart shows a fall of nearly thirty percentage points in a generation, though the flattening in the final years suggests the remaining decline is harder.",
+      "source": "ai-generated-prediction",
+      "word_count": 91
+    },
+    {
+      "id": "di-ai-679a8179",
+      "topic": "GDP per capita by region",
+      "image": "gdp-per-capita-regions",
+      "title": "GDP per capita by region (dados ilustrativos)",
+      "alt": "Multi-line chart of GDP per capita in four world regions from 1990 to 2023; North America leads at 66 thousand dollars, Sub-Saharan Africa stays near 6 thousand.",
+      "text": "This chart compares GDP per capita across four regions from 1990 to 2023, in thousands of international dollars. North America is the highest line throughout, rising from 36 to 66 thousand. Europe follows a parallel path at roughly half that level, from 20 to 39 thousand. East Asia shows the steepest relative climb, multiplying from 5 to 28 thousand — overtaking Europe's 1990 starting point. Sub-Saharan Africa remains nearly flat near the bottom, moving only from 2 to 6 thousand. The dominant visual message is the widening absolute gap between the top region and the bottom one.",
+      "source": "ai-generated-prediction",
+      "word_count": 97
+    },
+    {
+      "id": "di-ai-8e4360af",
+      "topic": "Global forest area",
+      "image": "forest-area-share",
+      "title": "Global forest area (dados ilustrativos)",
+      "alt": "Line chart of the share of global land area covered by forest from 1990 to 2020, declining gently from 32.4 to 31.1 percent.",
+      "text": "This line chart shows forest cover as a share of global land area from 1990 to 2020, on a y-axis deliberately zoomed between 29 and 33 percent. The decline is small but persistent: 32.4 percent in 1990, 31.9 in 2000, 31.4 in 2010 and 31.1 by 2020 — a loss of about 1.3 percentage points over thirty years. The zoomed axis makes the trend legible, but it also invites misreading: the actual loss is gradual rather than dramatic, which is itself the honest reading of the chart — slow, continuous deforestation rather than a collapse.",
+      "source": "ai-generated-prediction",
+      "word_count": 95
+    },
+    {
+      "id": "di-ai-fe8a7d8d",
+      "topic": "Energy use per person",
+      "image": "energy-use-per-person",
+      "title": "Energy use per person (dados ilustrativos)",
+      "alt": "Bar chart of annual energy use per person in seven countries, led by Qatar at 178 kilograms of oil equivalent and lowest in Ethiopia at 0.6.",
+      "text": "This bar chart compares energy consumption per person in seven countries, measured in kilograms of oil equivalent per year. Qatar towers over the chart at 178, followed by the USA at 71 — high, but less than half the Qatari level. Germany consumes 38, China 25 and Brazil 15, while India uses 6.7 and Ethiopia just 0.6. The core pattern is inequality: the highest bar is roughly three hundred times the lowest, and even China's rapidly growing consumption per person remains below half the American figure. The chart makes the scale of global energy inequality immediately visible.",
+      "source": "ai-generated-prediction",
+      "word_count": 97
+    },
+    {
+      "id": "di-ai-c7dfd9d6",
+      "topic": "Electricity generation mix",
+      "image": "electricity-mix-stacked",
+      "title": "Electricity generation mix (dados ilustrativos)",
+      "alt": "Stacked bar chart of world electricity generation by source for 1990 to 2023: coal declines from 64 to 46 percent, renewables rise from 10 to 24 percent, and other sources hold near 30 percent.",
+      "text": "This stacked bar chart shows the world electricity generation mix at five points in time, from 1990 to 2023, with each bar divided into coal, renewables and other sources. Coal's share falls steadily from 64 percent in 1990 to 46 percent by 2023, remaining the largest single component in every year shown. Renewables climb in the opposite direction, from 10 to 24 percent, with their fastest gains after 2010. The other category stays nearly constant around 28 to 30 percent. So the story is not a shrinking pie but a slow substitution: coal ceding ground to renewables while everything else holds steady.",
+      "source": "ai-generated-prediction",
+      "word_count": 102
+    },
+    {
+      "id": "di-ai-9993e514",
+      "topic": "Life satisfaction by income group",
+      "image": "life-satisfaction-income",
+      "title": "Life satisfaction by income group (dados ilustrativos)",
+      "alt": "Bar chart of average self-reported life satisfaction in 2023 by country income group, rising from 3.4 in low-income countries to 6.9 in high-income ones.",
+      "text": "This bar chart shows average life satisfaction in 2023, self-reported on a zero-to-ten scale, grouped by country income classification. Satisfaction rises in step with income: 3.4 in low-income countries, 4.6 in lower-middle, 5.7 in upper-middle and 6.9 in high-income countries. The steps are remarkably even, about one point per income band, and the highest group reports satisfaction nearly double that of the lowest. The chart supports the claim that average well-being and average income track each other closely across countries, at least at this aggregated level.",
+      "source": "ai-generated-prediction",
+      "word_count": 86
+    }
+  ]
+}

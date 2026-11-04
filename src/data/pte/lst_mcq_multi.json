@@ -1,0 +1,209 @@
+{
+  "type": "lst_mcq_multi",
+  "task_type": "Listening MCQ Multiple",
+  "section": "listening",
+  "total": 3,
+  "generated_at": "2026-10-05",
+  "questions": [
+    {
+      "text": "Today I want to focus on what makes peer review work — and what makes it fail. The strengths of peer review are real: it filters out obvious methodological errors, it catches missing citations and overstated claims, and it gives editors a structured signal about which papers deserve scarce journal space. But the system has well-documented weaknesses. Reviewers tend to favour work that confirms their priors, novel or interdisciplinary work gets lower scores than incremental work in established traditions, and the time investment is unrewarded — most reviewers report doing it from a sense of professional duty rather than expectation of any return. Reform proposals tend to cluster around three ideas: paying reviewers, opening reviews to public scrutiny after publication, and using pre-registration to reduce the temptation to evaluate results rather than methods.",
+      "id": "pte-lst_mc-6feffb55",
+      "answer": [
+        1,
+        3
+      ],
+      "options": [
+        "It filters out methodological errors.",
+        "Reviewers tend to favour work that confirms their existing views.",
+        "Reviewers receive substantial financial rewards for the work.",
+        "Novel or interdisciplinary work gets lower scores than incremental work.",
+        "Reviewers always reach the same conclusions about a paper."
+      ],
+      "explanation": "B and D paraphrase 'favour work that confirms their priors' and 'novel or interdisciplinary work gets lower scores'. A is named as a STRENGTH, not a weakness. C contradicts 'the time investment is unrewarded'. E is not in the lecture.",
+      "trap": "A is in the lecture but on the wrong side — it's listed as a strength. Don't pick options just because the words appeared in the audio.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 133
+    },
+    {
+      "text": "Memory researchers now distinguish three broad consolidation pathways. The first is synaptic consolidation, which happens within minutes to hours after learning and depends on protein synthesis at specific synapses. The second is systems consolidation, which unfolds over weeks to years and gradually transfers memories from the hippocampus to neocortical storage. The third — and most recently characterised — is reconsolidation, the surprising finding that retrieved memories briefly become labile again and can be modified before being restored. Reconsolidation has opened a clinical window: post-traumatic memories can sometimes be weakened by retrieving them under specific pharmacological conditions, though the technique remains experimental.",
+      "id": "pte-lst_mc-e6f20a6a",
+      "answer": [
+        1,
+        2
+      ],
+      "options": [
+        "It is the longest of the three consolidation processes.",
+        "Retrieved memories briefly become modifiable before being restored.",
+        "It has potential clinical applications for traumatic memories.",
+        "It replaces systems consolidation entirely.",
+        "It requires protein synthesis at every synapse."
+      ],
+      "explanation": "B paraphrases 'retrieved memories briefly become labile again and can be modified'. C paraphrases 'opened a clinical window ... post-traumatic memories can sometimes be weakened'. A is wrong — systems consolidation is described as the longest. D is not stated; the three processes coexist. E is described for synaptic consolidation, not reconsolidation.",
+      "trap": "E mixes details from a different pathway. The lecturer mentions protein synthesis only in connection with synaptic consolidation. Track which detail attaches to which concept.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 101
+    },
+    {
+      "text": "Geothermal energy is often described as a promising baseload renewable, but its real-world deployment has been uneven. The clearest successes are in places with shallow, naturally permeable hot rock: Iceland, parts of New Zealand, and the western United States. Most of the planet doesn't have that geology. Enhanced geothermal systems try to engineer permeability by fracturing deeper rock, but the technique has been linked to small induced earthquakes near several pilot sites. Cost is the other constraint: drilling deep enough to reach useful temperatures often runs above a hundred million dollars per project, and that cost has not fallen the way solar and wind costs have over the last fifteen years.",
+      "id": "pte-lst_mc-91423dad",
+      "answer": [
+        0,
+        2
+      ],
+      "options": [
+        "Most regions lack the right geology near the surface.",
+        "Geothermal plants emit large amounts of carbon dioxide.",
+        "Enhanced systems have been linked to induced seismic activity.",
+        "The technology requires year-round sunlight.",
+        "Most countries have banned the use of geothermal energy."
+      ],
+      "explanation": "A paraphrases 'Most of the planet doesn't have that geology'. C paraphrases 'linked to small induced earthquakes'. B is not mentioned (the lecture calls it renewable). D is irrelevant to geothermal. E is not stated.",
+      "trap": "B taps a general assumption that all energy sources emit CO2. The lecturer specifically frames geothermal as a clean baseload renewable. Stick to what was said.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 111
+    },
+    {
+      "text": "Urban water utilities face a paradox: pipes leak most at night, when demand is low and pressure is high, yet nobody is watching. Utilities that installed continuous pressure sensors found leaks weeks or even years earlier than under the traditional complaint-driven model, cutting total water loss by a third in pilot cities. Two other measures proved equally important. First, tiered pricing that keeps basic consumption cheap but raises the price steeply for high use reduced household waste without burdening the poor. Second, publishing neighbourhood-level loss figures created local pressure on utilities, which responded faster than they ever did to internal audits. Subsidising bottled water, by contrast, did nothing to fix the network and quietly doubled plastic waste.",
+      "id": "pte-lst_mc-19adf028",
+      "answer": [
+        1,
+        3
+      ],
+      "options": [
+        "Complaint-driven leak reporting is more accurate than continuous sensor networks.",
+        "Continuous pressure monitoring detects leaks far earlier than waiting for complaints.",
+        "Bottled-water subsidies reduce pressure on the pipe network during shortages.",
+        "Tiered pricing keeps essential use affordable while discouraging household waste.",
+        "Publishing consumption data had no effect on utility responsiveness."
+      ],
+      "explanation": "Options B and D paraphrase statements in the lecture; every other option contradicts, exaggerates or invents a claim.",
+      "trap": "Two options are correct. Wrong ones often invert a finding or deny a cause the lecture affirms.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 117
+    },
+    {
+      "text": "The lecture surveys how writing systems spread beyond their birthplace. Chinese characters were adopted wholesale by Japan, Korea and Vietnam, but all three eventually added alphabets or reduced the script, because matching a morphosyllabic system to another language is awkward. The Greek alphabet took the opposite path: by adding vowels to the Phoenician consonantal script, the Greeks created a system general enough to write any language, and it seeded Latin, Cyrillic and dozens of others. The Arabic script spread with religion across three continents and absorbed languages as different as Persian, Urdu and Malay, adjusting by adding dots and letters. The general principle: systems spread with power and faith, but survive only where they can be adapted.",
+      "id": "pte-lst_mc-cb50c40d",
+      "answer": [
+        1,
+        4
+      ],
+      "options": [
+        "Chinese characters were replaced by alphabets in Japan, Korea and Vietnam because religious conversion demanded it.",
+        "Adopting a morphosyllabic script for another language proved cumbersome, so all three cultures added or developed supplementary scripts.",
+        "The Greek alphabet rejected the Phoenician model entirely and was invented from scratch.",
+        "The Arabic script resisted modification and absorbed new languages without a single change.",
+        "By adding vowels to a consonantal script, the Greeks produced a system adaptable enough to seed many descendants."
+      ],
+      "explanation": "Options B and E paraphrase statements in the lecture; every other option contradicts, exaggerates or invents a claim.",
+      "trap": "Two options are correct. Wrong ones often invert a finding or deny a cause the lecture affirms.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 117
+    },
+    {
+      "text": "Animal welfare science has moved from anecdotes to measures. Heart-rate monitors show that animals experience stress before visible signs appear; operant-choice tests, in which animals work for access to a resource, reveal what they actually value rather than what we assume. Two findings have reshaped zoo design. First, animals given control — the ability to retreat, choose companions, trigger feeders — show consistently lower stress hormones than animals in richer but uncontrollable enclosures. Second, predictable routines, long assumed to be comforting, can become a source of anticipation stress when feeding is irregular but signalled in advance, because the animal can prepare. Welfare, the lecture concludes, is measured by the animal's options, not by the observer's aesthetics.",
+      "id": "pte-lst_mc-214faa9a",
+      "answer": [
+        1,
+        2
+      ],
+      "options": [
+        "Animals in visually enriched enclosures always show lower stress hormones than animals with plain surroundings.",
+        "Giving animals control over retreat, company and feeding lowers their stress more than enrichment without choice.",
+        "Operant-choice tests reveal which resources animals actually value, replacing human assumption with measured preference.",
+        "Irregular feeding reduces stress because unpredictability keeps animals alert and engaged.",
+        "Heart-rate data show that stress appears only together with visible behavioural signs."
+      ],
+      "explanation": "Options B and C paraphrase statements in the lecture; every other option contradicts, exaggerates or invents a claim.",
+      "trap": "Two options are correct. Wrong ones often invert a finding or deny a cause the lecture affirms.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 116
+    },
+    {
+      "text": "Why do some languages survive colonisation and others die? The lecture compares two cases. Welsh endured centuries of institutional pressure, yet revived from near-death because it retained a dense rural base, a written literary tradition and, decisively, media in the language — a television channel and radio stations that made daily life possible in Welsh. Livonian, spoken by a few fishing villages, had none of these: no contiguous homeland, no schooling tradition, and its last native speakers were scattered by Soviet relocations. The speaker notes that the decisive variable is not government policy but whether the language retains an economy — jobs, services and media that make it the practical choice for daily life.",
+      "id": "pte-lst_mc-a52ac94d",
+      "answer": [
+        0,
+        3
+      ],
+      "options": [
+        "Welsh survived because it kept a rural base, a literary tradition and native-language media that supported daily life.",
+        "Livonian collapsed mainly because government policy banned it from schools and public life.",
+        "The decisive factor in language survival is the number of words in the dictionary.",
+        "A language endures when it keeps an economy — services, media and work — that make it useful daily.",
+        "Livonian declined because its vocabulary was too small to describe modern technology."
+      ],
+      "explanation": "Options A and D paraphrase statements in the lecture; every other option contradicts, exaggerates or invents a claim.",
+      "trap": "Two options are correct. Wrong ones often invert a finding or deny a cause the lecture affirms.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 114
+    },
+    {
+      "text": "Economic history offers a warning about predictions: every generation's certainty becomes the next one's case study. In 1890, economists confidently explained why population growth must outrun food supply; the Green Revolution buried the argument. In 1970, the Club of Rome's computer models showed resource exhaustion by 2000; recycling, efficiency and discovery pushed the dates out indefinitely. The lecturer does not mock the modellers — their arithmetic was usually right, their assumptions about human response were not. Prices signal scarcity, and prices redirect ingenuity, which no fixed model captures. The lesson is not that forecasting is useless, but that any forecast must include the responding variable: people.",
+      "id": "pte-lst_mc-93154716",
+      "answer": [
+        1,
+        3
+      ],
+      "options": [
+        "The Club of Rome's models failed because their arithmetic was wrong.",
+        "The models' arithmetic was usually correct, but they missed how prices and human ingenuity respond to scarcity.",
+        "Population growth has outrun food supply since 1890, exactly as the economists of that era predicted.",
+        "Every failed forecast cited shares a pattern: correct arithmetic applied to assumptions that ignored human response.",
+        "Recycling and efficiency had no measurable effect on the exhaustion dates the 1970 models projected."
+      ],
+      "explanation": "Options B and D paraphrase statements in the lecture; every other option contradicts, exaggerates or invents a claim.",
+      "trap": "Two options are correct. Wrong ones often invert a finding or deny a cause the lecture affirms.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 106
+    },
+    {
+      "text": "The history of the pencil is a history of accidental geography. In 1564 a storm toppled trees in Cumberland, England, exposing a seam of graphite so pure it could be sawn into sticks; locals first used it to mark sheep. Since graphite was then found nowhere else in commercial quantity, and was useful for cannonball moulds, it became a strategic material — legend says mines were flooded between working seasons to deter spies. France, cut off by blockade during the Napoleonic wars, could not import Cumberland graphite, so Nicolas-Jacques Conté mixed powdered graphite with clay and fired it, creating not a substitute but an improvement: the modern pencil, whose hardness the clay ratio controls. War, geography and desperation produced the everyday object we barely notice.",
+      "id": "pte-lst_mc-407d17dd",
+      "answer": [
+        1,
+        4
+      ],
+      "options": [
+        "Cumberland graphite was so abundant that no government considered it strategically important.",
+        "The 1564 storm exposed a uniquely pure graphite seam, which soon became a strategic material guarded against espionage.",
+        "Conté invented the clay-graphite mixture because it produced a softer, darker line than pure graphite.",
+        "The first use of the graphite was to make cannonballs directly.",
+        "During the Napoleonic blockades, France needed a domestic substitute for graphite it could no longer import."
+      ],
+      "explanation": "Options B and E paraphrase statements in the lecture; every other option contradicts, exaggerates or invents a claim.",
+      "trap": "Two options are correct. Wrong ones often invert a finding or deny a cause the lecture affirms.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 125
+    },
+    {
+      "text": "Sleep apnea illustrates how a common condition stays hidden. Sufferers stop breathing repeatedly at night; the brain rouses them just enough to resume breathing, so they never wake fully and rarely remember. Diagnosis historically required an overnight clinic stay, expensive and unpopular, so millions went undiagnosed. Two developments changed the picture: home-testing devices that measure oxygen and airflow proved nearly as accurate as clinic studies, and dental appliances that advance the lower jaw emerged as an alternative for patients who cannot tolerate the standard pressurised mask. Neither advance is glamorous, and neither would exist without patients' complaints about the clinic path — evidence, the lecturer argues, that convenience is a legitimate driver of medical progress.",
+      "id": "pte-lst_mc-3f8f10c0",
+      "answer": [
+        0,
+        2
+      ],
+      "options": [
+        "Because partial arousal restores breathing, most sufferers never fully wake and remain undiagnosed.",
+        "Home tests proved far less accurate than overnight clinic studies and were abandoned.",
+        "Home testing devices and jaw-advancing dental appliances each lowered a barrier that had kept patients out of treatment.",
+        "The pressurised mask remains the only treatment with any clinical evidence behind it.",
+        "Patient complaints played no role in the development of alternative diagnostic paths."
+      ],
+      "explanation": "Options A and C paraphrase statements in the lecture; every other option contradicts, exaggerates or invents a claim.",
+      "trap": "Two options are correct. Wrong ones often invert a finding or deny a cause the lecture affirms.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 115
+    }
+  ]
+}

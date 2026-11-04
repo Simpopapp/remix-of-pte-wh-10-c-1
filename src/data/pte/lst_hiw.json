@@ -1,0 +1,170 @@
+{
+  "type": "lst_hiw",
+  "task_type": "Highlight Incorrect Words",
+  "section": "listening",
+  "total": 3,
+  "generated_at": "2026-10-05",
+  "questions": [
+    {
+      "text": "The Antarctic ice sheet has been losing mass at an accelerating rate since the early 1990s, with most of the loss concentrated in West Antarctica where warming ocean currents are eroding the floating ice shelves that buttress inland glaciers.",
+      "id": "pte-lst_hi-bf40243b",
+      "answer": "",
+      "errors": [
+        6,
+        15,
+        23,
+        26,
+        37
+      ],
+      "explanation": "Substituted in the audio: 'gaining' (vs. 'losing'), '1980s' (vs. '1990s'), 'East' (vs. 'West'), 'cooling' (vs. 'warming') and 'coastal' (vs. 'inland') — these words differ between the audio and the transcript shown.",
+      "trap": "Read the transcript ahead and predict likely substitution points (dates, directions, polarity words). Highlight only what differed — over-highlighting incurs negative marking.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 39,
+      "transcript": "The Antarctic ice sheet has been gaining mass at an accelerating rate since the early 1980s, with most of the loss concentrated in East Antarctica where cooling ocean currents are eroding the floating ice shelves that buttress coastal glaciers."
+    },
+    {
+      "text": "Anthropologists who study small-scale societies have documented a remarkable diversity of marriage and family arrangements, and the pattern that holds is not monogamy but flexibility: different communities adopt different rules in response to ecological pressure, resource scarcity, and historical contact with neighbours.",
+      "id": "pte-lst_hi-f01a6e63",
+      "answer": "",
+      "errors": [
+        3,
+        9,
+        24,
+        25,
+        28,
+        36,
+        39
+      ],
+      "explanation": "Substituted in the audio: 'large-scale' (vs. 'small-scale'), 'uniformity' (vs. 'diversity'), 'rigidity' (vs. 'flexibility'), 'similar' (vs. 'different'), 'similar' (vs. 'different'), 'abundance' (vs. 'scarcity') and 'isolation' (vs. 'contact') — these words differ between the audio and the transcript shown.",
+      "trap": "Mass-polarity-reversal questions reward listeners who note the direction of every claim in the audio. Don't get distracted by the unchanged words — about 80% of the transcript matches, and your job is to spot the 20%.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 42,
+      "transcript": "Anthropologists who study large-scale societies have documented a remarkable uniformity of marriage and family arrangements, and the pattern that holds is not monogamy but rigidity: similar communities adopt similar rules in response to ecological pressure, resource abundance, and historical isolation with neighbours."
+    },
+    {
+      "text": "Renewable hydrogen is produced by passing electricity through water to split it into hydrogen and oxygen, a process called electrolysis. The hydrogen can then be stored, transported, and burned in fuel cells with water as the only emission, which makes it attractive for sectors like steel manufacturing and heavy transport that are difficult to electrify directly.",
+      "id": "pte-lst_hi-d8a61e2e",
+      "answer": "",
+      "errors": [
+        15,
+        33,
+        45,
+        48
+      ],
+      "explanation": "Substituted in the audio: 'nitrogen' (vs. 'oxygen'), 'carbon' (vs. 'water'), 'coal' (vs. 'steel') and 'light' (vs. 'heavy') — these words differ between the audio and the transcript shown.",
+      "trap": "Three of the four substitutions are technically nonsensical (electrolysis doesn't produce nitrogen, fuel cells don't emit carbon). Domain knowledge helps you predict where the transcript is likely to be wrong, but always rely on what you actually hear.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 56,
+      "transcript": "Renewable hydrogen is produced by passing electricity through water to split it into hydrogen and nitrogen, a process called electrolysis. The hydrogen can then be stored, transported, and burned in fuel cells with carbon as the only emission, which makes it attractive for sectors like coal manufacturing and light transport that are difficult to electrify directly."
+    },
+    {
+      "text": "The Greenland ice sheet is currently losing mass faster than scientists expected, and the biggest accelerations occur at marine-terminating glaciers where warm water reaches the ice front directly.",
+      "id": "pte-lst_hi-8726afa7",
+      "answer": "",
+      "errors": [
+        6,
+        8
+      ],
+      "explanation": "Substituted in the audio: 'gaining' (vs. 'losing') and 'slower' (vs. 'faster') — the polarity words are the classic HIW bait in climate passages.",
+      "trap": "Read the transcript ahead and predict likely substitution points (dates, directions, polarity words, near-miss technical terms). Highlight only what differed — over-highlighting incurs negative marking.",
+      "topic": "climate science",
+      "source": "ai-generated-prediction",
+      "word_count": 28,
+      "transcript": "The Greenland ice sheet is currently gaining mass slower than scientists expected, and the biggest accelerations occur at marine-terminating glaciers where warm water reaches the ice front directly."
+    },
+    {
+      "text": "Processed foods are engineered to hit a blend of salt, sugar and fat that makes them hard to stop eating, a combination researchers call supranormal stimuli.",
+      "id": "pte-lst_hi-b660a962",
+      "answer": "",
+      "errors": [
+        10,
+        16
+      ],
+      "explanation": "Substituted in the audio: 'honey' (vs. 'sugar') and 'easy' (vs. 'hard') — the latter reverses the finding the lecture builds on.",
+      "trap": "Read the transcript ahead and predict likely substitution points (dates, directions, polarity words, near-miss technical terms). Highlight only what differed — over-highlighting incurs negative marking.",
+      "topic": "nutrition",
+      "source": "ai-generated-prediction",
+      "word_count": 26,
+      "transcript": "Processed foods are engineered to hit a blend of salt, honey and fat that makes them easy to stop eating, a combination researchers call supranormal stimuli."
+    },
+    {
+      "text": "Before germ theory took hold, surgeons prided themselves on speed rather than cleanliness, and operating theatres were designed as amphitheatres where students could watch the performance.",
+      "id": "pte-lst_hi-c83df0ea",
+      "answer": "",
+      "errors": [
+        9,
+        25
+      ],
+      "explanation": "Substituted in the audio: 'skill' (vs. 'speed') and 'dissection' (vs. 'performance') — plausible words that do not carry the lecture's point.",
+      "trap": "Read the transcript ahead and predict likely substitution points (dates, directions, polarity words, near-miss technical terms). Highlight only what differed — over-highlighting incurs negative marking.",
+      "topic": "history of medicine",
+      "source": "ai-generated-prediction",
+      "word_count": 26,
+      "transcript": "Before germ theory took hold, surgeons prided themselves on skill rather than cleanliness, and operating theatres were designed as amphitheatres where students could watch the dissection."
+    },
+    {
+      "text": "Octopuses can edit their own RNA, which allows their neurons to keep functioning in cold water and may explain why these invertebrates invest so heavily in learning.",
+      "id": "pte-lst_hi-52b40f1d",
+      "answer": "",
+      "errors": [
+        5,
+        14,
+        26
+      ],
+      "explanation": "Substituted in the audio: 'DNA' (vs. 'RNA'), 'warm' (vs. 'cold') and 'memory' (vs. 'learning') — three near-miss technical terms.",
+      "trap": "Read the transcript ahead and predict likely substitution points (dates, directions, polarity words, near-miss technical terms). Highlight only what differed — over-highlighting incurs negative marking.",
+      "topic": "marine biology",
+      "source": "ai-generated-prediction",
+      "word_count": 27,
+      "transcript": "Octopuses can edit their own DNA, which allows their neurons to keep functioning in warm water and may explain why these invertebrates invest so heavily in memory."
+    },
+    {
+      "text": "Minimum wage studies increasingly rely on border discontinuities, comparing neighbouring counties where the wage floor differs and finding that job losses are typically smaller than theory predicts.",
+      "id": "pte-lst_hi-07cd2378",
+      "answer": "",
+      "errors": [
+        14,
+        23
+      ],
+      "explanation": "Substituted in the audio: 'ceiling' (vs. 'floor') and 'larger' (vs. 'smaller') — the reversal destroys the empirical argument.",
+      "trap": "Read the transcript ahead and predict likely substitution points (dates, directions, polarity words, near-miss technical terms). Highlight only what differed — over-highlighting incurs negative marking.",
+      "topic": "economics",
+      "source": "ai-generated-prediction",
+      "word_count": 27,
+      "transcript": "Minimum wage studies increasingly rely on border discontinuities, comparing neighbouring counties where the wage ceiling differs and finding that job losses are typically larger than theory predicts."
+    },
+    {
+      "text": "The James Webb telescope observes primarily in infrared, which allows it to see through dust clouds and to catch light that has been stretched by the expansion of the universe.",
+      "id": "pte-lst_hi-780bdbd5",
+      "answer": "",
+      "errors": [
+        7,
+        23
+      ],
+      "explanation": "Substituted in the audio: 'ultraviolet' (vs. 'infrared') and 'compressed' (vs. 'stretched') — the physics of redshift is exactly what the item tests.",
+      "trap": "Read the transcript ahead and predict likely substitution points (dates, directions, polarity words, near-miss technical terms). Highlight only what differed — over-highlighting incurs negative marking.",
+      "topic": "astronomy",
+      "source": "ai-generated-prediction",
+      "word_count": 30,
+      "transcript": "The James Webb telescope observes primarily in ultraviolet, which allows it to see through dust clouds and to catch light that has been compressed by the expansion of the universe."
+    },
+    {
+      "text": "Load-bearing walls limited the height of buildings until steel frames allowed towers to carry their weight through a skeleton, freeing walls to become mere curtains of glass.",
+      "id": "pte-lst_hi-cf760b6f",
+      "answer": "",
+      "errors": [
+        8,
+        26
+      ],
+      "explanation": "Substituted in the audio: 'concrete' (vs. 'steel') and 'stone' (vs. 'glass') — both substitutions are period-plausible materials.",
+      "trap": "Read the transcript ahead and predict likely substitution points (dates, directions, polarity words, near-miss technical terms). Highlight only what differed — over-highlighting incurs negative marking.",
+      "topic": "architecture",
+      "source": "ai-generated-prediction",
+      "word_count": 27,
+      "transcript": "Load-bearing walls limited the height of buildings until concrete frames allowed towers to carry their weight through a skeleton, freeing walls to become mere curtains of stone."
+    }
+  ]
+}

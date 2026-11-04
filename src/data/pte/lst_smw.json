@@ -1,0 +1,169 @@
+{
+  "type": "lst_smw",
+  "task_type": "Select Missing Word",
+  "section": "listening",
+  "total": 3,
+  "generated_at": "2026-10-05",
+  "questions": [
+    {
+      "text": "When economists first started studying happiness as an outcome variable, the surprising finding was how little additional income increased self-reported well-being once a household had moved out of poverty. Across high-income countries, the gap between earning fifty thousand and earning a hundred thousand dollars per year produces only a modest increase in reported happiness. The dominant predictor at those income levels is not money but the strength of close personal",
+      "id": "pte-lst_sm-40c6f847",
+      "answer": 0,
+      "options": [
+        "relationships",
+        "education",
+        "investments",
+        "ambitions"
+      ],
+      "explanation": "The lecture explicitly contrasts money with the predictor of happiness at high income levels and frames it around 'close personal ___'. The standard pairing is 'close personal relationships'.",
+      "trap": "All four options fit grammatically ('close personal investments' is grammatical too), but only 'relationships' fits the well-known finding from happiness economics that the lecture is leading to.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 70
+    },
+    {
+      "text": "Modern cryptography rests on two foundations. The first is the use of mathematical problems that are easy to compute in one direction but extremely hard to reverse — multiplying two large prime numbers, for example, is fast, but factoring the result is computationally expensive. The second foundation is the careful management of secret keys: a perfect mathematical scheme is worthless if the keys can be intercepted or guessed. The whole field, in other words, depends as much on key management as it does on",
+      "id": "pte-lst_sm-d8259139",
+      "answer": 1,
+      "options": [
+        "budgets",
+        "mathematics",
+        "advertising",
+        "compliance"
+      ],
+      "explanation": "The lecture's argument structure is 'as much on X as on Y' where Y is the other foundation discussed. The first foundation was hard mathematical problems, so 'mathematics' is the only option that closes the parallel.",
+      "trap": "'Compliance' sounds professional and security-adjacent, but the lecture never raised compliance as a foundation. Track the actual structure of the argument, not vibes-related distractors.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 84
+    },
+    {
+      "text": "Field biologists studying coral reefs have noticed that the recovery of bleached reefs depends heavily on the surrounding ocean conditions. Reefs near coastlines with healthy mangrove forests recover more reliably than reefs adjacent to coastlines where mangroves have been cleared. Mangroves filter sediment from runoff, stabilise water temperature in lagoons, and serve as nurseries for juvenile reef fish. In short, the fate of a coral reef cannot be understood without also understanding the health of its neighbouring",
+      "id": "pte-lst_sm-29ad3261",
+      "answer": 1,
+      "options": [
+        "industries",
+        "mangroves",
+        "predators",
+        "tourists"
+      ],
+      "explanation": "The entire passage is a setup for the final word: mangroves are named four times and presented as the relevant neighbouring ecosystem. 'Predators' and 'tourists' are not discussed; 'industries' could fit loosely but the lecture is not about industry.",
+      "trap": "Test-takers who tune out for the buildup may grab any noun. The Select Missing Word task often rewards listeners who track what the lecture has been building toward.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 77
+    },
+    {
+      "text": "After centuries of speculation, physicists finally detected gravitational waves in 2015, ripples in spacetime produced by colliding black holes more than a billion light years away. The detector works by splitting a laser beam and sending each half down a four-kilometre arm; a passing wave stretches one arm and squeezes the other by less than a ten-thousandth the width of a proton. Detecting something so small required decades of engineering, because ordinary vibration from passing trucks and ocean waves swamps the signal. The instrument therefore hangs suspended and isolated in ___ that cancel nearly all external motion.",
+      "id": "pte-lst_sm-75f29d30",
+      "answer": 0,
+      "options": [
+        "vacuum chambers",
+        "seismic traps",
+        "magnetic fields",
+        "steel cages"
+      ],
+      "explanation": "The lecture describes how the detector is suspended and isolated so that vibrations are cancelled; the standard engineering phrase is 'suspended ... in vacuum chambers'.",
+      "trap": "All four options are grammatical in isolation; only one fits the lecture's argument and its standard collocation.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 97
+    },
+    {
+      "text": "Before digital spreadsheets, accountants kept ledgers by hand, and the double-entry method made errors visible: every transaction was recorded twice, once as a debit and once as a credit, so the totals had to ___ at the end of each page. If the columns disagreed, the bookkeeper knew precisely that something had been omitted or duplicated, though not necessarily where. This redundancy is why double-entry bookkeeping is often called one of the most consequential inventions in commerce: it turned bookkeeping from a memory aid into a built-in audit.",
+      "id": "pte-lst_sm-1c0ac381",
+      "answer": 1,
+      "options": [
+        "balance",
+        "reconcile",
+        "equalize",
+        "match"
+      ],
+      "explanation": "The lecture frames the totals as needing to balance each other at the end of a page; the collocation used is 'the totals had to balance'.",
+      "trap": "All four options are grammatical in isolation; only one fits the lecture's argument and its standard collocation.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 88
+    },
+    {
+      "text": "The invention of the shipping container in 1956 changed world trade more than any trade treaty. Before standardisation, loading a cargo ship cost more than moving the goods across the ocean, because dockworkers stacked barrels, sacks and crates one piece at a time. Once a single steel box could be lifted directly from truck to ship to train, the cost of moving freight collapsed by more than ninety percent, and factories no longer needed to sit beside ports. Global manufacturing networks, in which components cross ___ several times before final assembly, are unthinkable without this humble box.",
+      "id": "pte-lst_sm-deacd84f",
+      "answer": 0,
+      "options": [
+        "borders",
+        "bottlenecks",
+        "beaches",
+        "barriers"
+      ],
+      "explanation": "The lecture says components cross borders several times before final assembly; the distractors do not collocate with 'cross ... several times'.",
+      "trap": "All four options are grammatical in isolation; only one fits the lecture's argument and its standard collocation.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 97
+    },
+    {
+      "text": "Migratory birds navigate using multiple cues simultaneously: the position of the sun, the pattern of polarised light in the sky, the earth's magnetic field and learned landmarks. Researchers showed this by raising birds in planetariums that presented altered ___ , and the birds followed the artificial pattern as if it were the real sky. No single cue is decisive; instead, each serves as a backup for the others, which explains how birds cope when fog hides the stars or a solar storm distorts the magnetic field.",
+      "id": "pte-lst_sm-6e0f3b87",
+      "answer": 0,
+      "options": [
+        "star patterns",
+        "wind directions",
+        "day lengths",
+        "constellations"
+      ],
+      "explanation": "The lecture names star patterns among the navigation cues and describes the planetarium experiment with an altered pattern.",
+      "trap": "All four options are grammatical in isolation; only one fits the lecture's argument and its standard collocation.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 86
+    },
+    {
+      "text": "Historians of technology note that a new invention rarely replaces an older one outright; instead the older technology retreats into niches. Sails gave way to steam engines on long routes but remained competitive for decades in ___ where fuel was expensive and winds reliable. The same pattern repeated with the horse, which persisted in deliveries long after the automobile arrived, and again with film photography, which survives among professionals who value its look. What dies is not the technology but its former monopoly.",
+      "id": "pte-lst_sm-f741d960",
+      "answer": 0,
+      "options": [
+        "islands",
+        "tropics",
+        "harbours",
+        "railways"
+      ],
+      "explanation": "The lecture speaks of niches 'where fuel was expensive and winds reliable', pointing to islands; the other options contradict either the fuel argument or the role of sailing vessels.",
+      "trap": "All four options are grammatical in isolation; only one fits the lecture's argument and its standard collocation.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 83
+    },
+    {
+      "text": "Public-health campaigns often fail because they target knowledge when the real barrier is convenience. In one classic study, a hospital introduced hand gel dispensers at every bedside, and compliance more than doubled, although the staff had already scored highly on questionnaires about the importance of hand hygiene. The lesson generalises: changing ___ usually beats changing minds. Cities that made recycling bins as visible as trash cans saw participation jump without a single advertisement.",
+      "id": "pte-lst_sm-e987b92a",
+      "answer": 0,
+      "options": [
+        "environments",
+        "attitudes",
+        "budgets",
+        "schedules"
+      ],
+      "explanation": "The lecture contrasts knowledge with convenience and concludes that changing environments beats changing minds; 'changing attitudes' is the opposite of its argument.",
+      "trap": "All four options are grammatical in isolation; only one fits the lecture's argument and its standard collocation.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 73
+    },
+    {
+      "text": "Volcanologists classify eruptions by how viscous the magma is. Runny basaltic magma lets gas escape gently, producing the spectacular but predictable fountains of Hawaii. Sticky, silica-rich magma traps gas under pressure until it releases explosively, as at stratovolcanoes around the Pacific. Viscosity depends on ___ , so two volcanoes sixty kilometres apart can behave completely differently.",
+      "id": "pte-lst_sm-6796eba8",
+      "answer": 0,
+      "options": [
+        "chemistry",
+        "temperature",
+        "depth",
+        "age"
+      ],
+      "explanation": "The lecture states viscosity depends on the magma's chemistry, which is why nearby volcanoes differ; temperature is mentioned as a trap only in other contexts, and the explanation hinges on composition.",
+      "trap": "All four options are grammatical in isolation; only one fits the lecture's argument and its standard collocation.",
+      "topic": "academic lecture",
+      "source": "ai-generated-prediction",
+      "word_count": 56
+    }
+  ]
+}

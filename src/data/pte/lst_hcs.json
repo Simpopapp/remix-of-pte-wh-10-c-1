@@ -1,0 +1,169 @@
+{
+  "type": "lst_hcs",
+  "task_type": "Highlight Correct Summary",
+  "section": "listening",
+  "total": 3,
+  "generated_at": "2026-10-05",
+  "questions": [
+    {
+      "text": "Researchers in linguistics have long debated whether the structure of a language shapes the way its speakers think. The strong form of this hypothesis — that language strictly determines cognition — has been broadly rejected. But weaker versions are gathering empirical support. Speakers of languages with grammatical gender categorise objects differently from speakers of languages without it. Speakers of languages that use absolute directions, like north and south, rather than relative ones, like left and right, develop remarkable spatial awareness that persists even in unfamiliar environments. These effects are small, but they are real, and they have begun to reshape how cognitive scientists think about the interaction between thought and language.",
+      "id": "pte-lst_hc-e87440e0",
+      "answer": 1,
+      "options": [
+        "Linguists have proven that language entirely determines the way speakers think, and the strong form of this hypothesis is now accepted across the field.",
+        "While the strong form of the language-shapes-thought hypothesis has been rejected, weaker versions are now supported by small but real effects involving grammatical gender and spatial-direction conventions.",
+        "Languages with grammatical gender make speakers think exactly the same as speakers of languages without it, and direction systems have no measurable effect on cognition.",
+        "Cognitive scientists have given up studying the interaction between thought and language because the experimental evidence is too weak to be useful."
+      ],
+      "explanation": "Option B preserves the lecturer's nuanced position: strong hypothesis rejected, weaker versions supported, effects small but real. A inverts the actual conclusion. C contradicts the lecture's evidence. D is the opposite of the closing line about reshaping cognitive science.",
+      "trap": "A is dangerous because it uses the same vocabulary as the lecture ('strong form', 'language determines thought') but takes the opposite side. Read for direction of argument, not keyword overlap.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 111
+    },
+    {
+      "text": "When public health officials talk about vaccine hesitancy, the temptation is to frame it as a problem of misinformation, fixable through better education campaigns. The evidence suggests this framing is incomplete. Surveys consistently find that vaccine-hesitant parents are not less informed about vaccines — many have read extensively on the topic. What distinguishes them is lower baseline trust in the institutions delivering the message: government health agencies, pharmaceutical companies, and sometimes physicians themselves. Interventions that focus on information delivery without first rebuilding institutional trust tend to backfire, producing more entrenched hesitancy rather than less. Effective programs invest first in trusted local messengers — community doctors, pharmacists, religious leaders — who can carry the same scientific content with credibility the institution itself cannot supply.",
+      "id": "pte-lst_hc-bfc76d3c",
+      "answer": 2,
+      "options": [
+        "Vaccine hesitancy is mainly a problem of poor information, and the standard solution of public education campaigns has been highly successful.",
+        "Vaccine-hesitant parents are uniformly less educated and have read less about vaccines than parents who vaccinate readily.",
+        "Vaccine hesitancy is driven less by lack of information than by low trust in institutional messengers, so effective interventions rely on trusted local figures rather than information delivery alone.",
+        "Effective public health campaigns target individual fears through one-on-one therapy, while institutional messaging plays only a minor role."
+      ],
+      "explanation": "C captures the lecture's core claim: trust matters more than information, and local messengers carry credibility institutions cannot. A reverses the lecture's framing. B contradicts ('not less informed'). D is not in the lecture at all.",
+      "trap": "A reuses the lecture's framing ('information', 'public education') but takes the position the lecturer is arguing AGAINST. Anchor on the conclusion, not the surface vocabulary.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 123
+    },
+    {
+      "text": "The history of antibiotic resistance is often told as a story of bacteria evolving to defeat human medicine. That framing is misleading. Resistance genes existed in the soil microbiome long before penicillin was discovered — antibiotic compounds are produced naturally by competing microbes, and bacteria have been evolving counter-measures for millions of years. What human medicine did was unwittingly accelerate selection. The widespread use of antibiotics in agriculture and the over-prescription of antibiotics for viral infections created conditions where pre-existing resistance genes became overwhelmingly advantageous, spread rapidly through bacterial populations, and reached clinical settings. The implication is that 'discovering new antibiotics faster' is a partial fix at best — without changing how existing antibiotics are used, the same arms race will repeat.",
+      "id": "pte-lst_hc-119ca48d",
+      "answer": 1,
+      "options": [
+        "Antibiotic resistance is a recent invention by bacteria, and discovering new antibiotics is the complete solution to the problem.",
+        "Resistance genes existed in nature long before human medicine; modern misuse of antibiotics accelerated their spread, so simply inventing new drugs won't solve the underlying problem.",
+        "Antibiotic-resistant bacteria are a myth perpetuated by pharmaceutical companies to sell new drugs.",
+        "Agricultural use of antibiotics is the sole cause of resistance, and human medical use plays no role."
+      ],
+      "explanation": "B captures both halves of the lecturer's argument: pre-existing resistance + human acceleration + 'new drugs alone won't fix it'. A is the framing the lecturer rejects. C is not a position in the lecture. D singles out one cause while the lecture names multiple.",
+      "trap": "D picks out one fact from the audio (agricultural use) and inflates it into a sole cause. Summaries fail not only by contradicting evidence but by over-attributing.",
+      "topic": "academic lecture",
+      "source": "pteracai-seed",
+      "word_count": 122
+    },
+    {
+      "text": "Cities are warming faster than the countryside around them, and the reason is largely built into the streets themselves. Asphalt, concrete and dark rooftops absorb solar radiation during the day and release it slowly at night, so urban temperatures can run several degrees above surrounding rural areas, especially after sunset. The health cost is real: heat-related illness rises sharply during heatwaves, and it is the elderly and residents of dense low-income neighbourhoods who suffer most. The good news is that city governments are not helpless. Reflective roofing, expanded tree canopy and permeable pavements have all been shown to lower street-level temperatures measurably. Singapore and Medellin have treated urban forestry as public infrastructure, and the cooling effect is now visible on thermal maps.",
+      "id": "pte-lst_hc-5f734737",
+      "answer": 1,
+      "options": [
+        "Cities are warming only because of global climate change, and nothing a city government builds or plants can change street-level temperatures.",
+        "Cities run hotter than nearby rural areas mainly because built surfaces store heat, the burden falls hardest on vulnerable residents, and measures such as reflective roofing and urban trees measurably cool streets.",
+        "Urban heat is harmless to health, since hospital data show heat-related illness falling even during the strongest heatwaves.",
+        "Tree planting works but reflective roofing and permeable pavements raise street temperatures rather than lowering them."
+      ],
+      "explanation": "One option paraphrases the lecture faithfully: it keeps the phenomenon, the evidence and the qualifier. The others invent, exaggerate or contradict what was said.",
+      "trap": "The wrong options are extreme, contradictory or deny practical responses the lecture documents. Match the qualifier, not the topic words.",
+      "topic": "urban heat islands",
+      "source": "ai-generated-prediction",
+      "word_count": 122
+    },
+    {
+      "text": "Honeybees solve a navigation problem that would challenge an engineer: fly several kilometres, find a patch of flowers, and return home reliably. The waggle dance, in which a returning forager moves in a figure of eight, encodes both the direction and the distance of the food source relative to the sun. What is less known is that bees also build a cognitive map of local landmarks, and when researchers displaced a hive, foragers compensated using visual memory rather than simply recalibrating. This suggests their navigation is not a rigid reflex but a flexible combination of sun-compass information and learned landscape features. Understanding this has influenced robotics, where researchers borrow these principles to design drones that navigate without satellite signals.",
+      "id": "pte-lst_hc-af5c1b12",
+      "answer": 2,
+      "options": [
+        "Displacing a hive permanently disorients foragers, showing that bee navigation is a rigid reflex that cannot adapt to new conditions.",
+        "Bees navigate by smell alone, and the waggle dance communicates only the quality of the food rather than its direction or distance.",
+        "Bees navigate flexibly by combining the sun-compass information in their waggle dance with a learned map of landmarks, and this model now informs drone navigation without satellite signals.",
+        "Engineers abandoned bee research because satellite-guided drones made biological navigation models obsolete."
+      ],
+      "explanation": "One option paraphrases the lecture faithfully: it keeps the phenomenon, the evidence and the qualifier. The others invent, exaggerate or contradict what was said.",
+      "trap": "The wrong options are extreme, contradictory or deny practical responses the lecture documents. Match the qualifier, not the topic words.",
+      "topic": "bee navigation",
+      "source": "ai-generated-prediction",
+      "word_count": 119
+    },
+    {
+      "text": "A common misunderstanding is that the sleeping brain simply shuts down. In fact, sleep is when the brain performs essential maintenance on memory. During slow-wave sleep, hippocampal activity replays the day's experiences in compressed form and gradually transfers them to the cortex for long-term storage. Experiments in which participants learned word pairs showed that even a ninety-minute nap produced measurable retention gains, and the benefit scaled with the amount of slow-wave activity recorded. Sleep deprivation, by contrast, does not merely make learning harder the next day; it actively interferes with the consolidation that occurred overnight. This is why sleep researchers argue that an all-night study session is often counterproductive: the material was reviewed, but never filed.",
+      "id": "pte-lst_hc-849cc6ee",
+      "answer": 3,
+      "options": [
+        "Sleep deprivation mainly causes daytime tiredness, which students can offset by studying harder through the night before an exam.",
+        "The brain shuts down during sleep, which is why memory is best consolidated immediately after studying while awake.",
+        "Retention gains after naps occur randomly and did not correlate with any measurable stage of sleep in the experiments.",
+        "During slow-wave sleep the brain replays and transfers the day's experiences to long-term storage, so even a short nap aids retention while an all-night session can undo consolidation."
+      ],
+      "explanation": "One option paraphrases the lecture faithfully: it keeps the phenomenon, the evidence and the qualifier. The others invent, exaggerate or contradict what was said.",
+      "trap": "The wrong options are extreme, contradictory or deny practical responses the lecture documents. Match the qualifier, not the topic words.",
+      "topic": "sleep and memory",
+      "source": "ai-generated-prediction",
+      "word_count": 116
+    },
+    {
+      "text": "Antibiotic resistance is often described as a future crisis, but the data show it is already a present one. In regions where antibiotics are available without prescription, resistance rates in common bacteria are far higher than in countries with strict prescription controls, which tells us that overuse, not merely use, is the driver. The economics compound the problem: developing a new antibiotic costs over a billion dollars, yet the most rational clinical strategy is to reserve new drugs as a last line of defence, which sharply limits sales. Recent policy proposals therefore reward developers for successful cures rather than for volume sold. Without such incentives, the pipeline of effective antibiotics will continue to shrink while resistance keeps spreading.",
+      "id": "pte-lst_hc-11b9906a",
+      "answer": 0,
+      "options": [
+        "Resistance is already widespread, driven largely by overuse, and because rational practice limits new-drug sales, policy now proposes rewarding cures rather than sales to keep the pipeline alive.",
+        "Resistance is a distant threat that current prescription policies have already brought under control in most regions.",
+        "Resistance is driven mainly by antibiotic use itself, and the solution is to abandon prescription controls so patients complete treatment faster.",
+        "New antibiotics are profitable precisely because doctors reserve them, so the development pipeline is expanding without any policy intervention."
+      ],
+      "explanation": "One option paraphrases the lecture faithfully: it keeps the phenomenon, the evidence and the qualifier. The others invent, exaggerate or contradict what was said.",
+      "trap": "The wrong options are extreme, contradictory or deny practical responses the lecture documents. Match the qualifier, not the topic words.",
+      "topic": "antibiotic resistance",
+      "source": "ai-generated-prediction",
+      "word_count": 118
+    },
+    {
+      "text": "When a glacier retreats, the consequences are not limited to a receding ice wall. Bare rock and dark sediment left behind absorb far more sunlight than the reflective ice they replaced, which accelerates the melting of the remaining glacier in a self-reinforcing loop. Hydrologists add a subtler danger: for decades, shrinking glaciers actually increase summer river flow, and communities downstream expand agriculture on the strength of this apparent gift. Then, as the ice mass declines below a threshold, the flow collapses. Andean cities have already lived through this transition, and models suggest Himalayan river basins, which feed well over a billion people, will face the same turning point within decades. Water planning, not just carbon policy, must respond.",
+      "id": "pte-lst_hc-660345e2",
+      "answer": 0,
+      "options": [
+        "Retreating glaciers temporarily boost summer river flow, but past a threshold the flow collapses; Himalayan basins face this turning point within decades, so water planning must respond.",
+        "Glacier retreat lowers summer river flow immediately, which is why downstream agriculture in the Andes collapsed decades ago.",
+        "Glacier retreat is purely cosmetic, since exposed rock reflects even more sunlight than the ice it replaces.",
+        "Himalayan rivers are unaffected by ice mass because they are fed almost entirely by monsoon rainfall at all times of year."
+      ],
+      "explanation": "One option paraphrases the lecture faithfully: it keeps the phenomenon, the evidence and the qualifier. The others invent, exaggerate or contradict what was said.",
+      "trap": "The wrong options are extreme, contradictory or deny practical responses the lecture documents. Match the qualifier, not the topic words.",
+      "topic": "glacier melt feedback",
+      "source": "ai-generated-prediction",
+      "word_count": 118
+    },
+    {
+      "text": "Coral reefs are built by an unlikely partnership: the coral animal provides shelter and nutrients to microscopic algae living inside its tissues, and in return receives up to ninety percent of the energy the algae produce through photosynthesis. This partnership is temperature-sensitive. When water stays unusually warm for even a few weeks, the algae's photosynthetic machinery is damaged and produces toxic compounds, and the coral expels its tenants, turning white. Bleached coral is starving, not dead; it can recover if temperatures return to normal quickly. What alarms marine biologists is the shrinking recovery window. Reefs that bounced back from bleaching in ten years in the 1980s now need fifteen or more, because bleaching events themselves return faster.",
+      "id": "pte-lst_hc-03a04fe4",
+      "answer": 3,
+      "options": [
+        "Bleached coral is dead, and recovery times have shortened steadily since the 1980s thanks to cooler oceans.",
+        "Coral bleaching results from pollution alone, and water temperature plays no role in the loss of the algae living inside coral tissue.",
+        "Reefs now recover from bleaching faster than in the 1980s because corals have evolved tolerance to warmer water.",
+        "Coral depends on internal algae for most of its energy; heat damage makes the coral expel them, and although recovery is possible, the window between bleaching events keeps shrinking."
+      ],
+      "explanation": "One option paraphrases the lecture faithfully: it keeps the phenomenon, the evidence and the qualifier. The others invent, exaggerate or contradict what was said.",
+      "trap": "The wrong options are extreme, contradictory or deny practical responses the lecture documents. Match the qualifier, not the topic words.",
+      "topic": "coral symbiosis",
+      "source": "ai-generated-prediction",
+      "word_count": 117
+    },
+    {
+      "text": "Professional science cannot observe everything, and that is where organised amateurs have become indispensable. Bird migration atlases, butterfly counts and variable-star observations have long depended on volunteers, but digital platforms have transformed the scale and reliability of participation. Researchers now report that with simple training and redundancy, many volunteer observations match expert quality, and because thousands of eyes cover different places at once, volunteers frequently detect phenomena professionals would have missed entirely. Two design principles recur in successful projects: make the task small enough to complete in minutes, and give participants feedback showing how their contribution advanced the research. Projects that ignore both tend to see participation collapse within months.",
+      "id": "pte-lst_hc-e5e081a7",
+      "answer": 3,
+      "options": [
+        "Volunteer observations are far below expert quality, so professional projects use them only when expert effort would be wasted.",
+        "Amateur science works best when volunteers receive long training courses and little feedback about the research they support.",
+        "Participation in citizen-science projects has grown regardless of task design, so platforms need not worry about volunteer motivation.",
+        "Digital crowdsourcing matches expert quality with simple training and redundancy, and projects succeed by keeping tasks short and showing contributors their impact."
+      ],
+      "explanation": "One option paraphrases the lecture faithfully: it keeps the phenomenon, the evidence and the qualifier. The others invent, exaggerate or contradict what was said.",
+      "trap": "The wrong options are extreme, contradictory or deny practical responses the lecture documents. Match the qualifier, not the topic words.",
+      "topic": "crowdsourcing science",
+      "source": "ai-generated-prediction",
+      "word_count": 110
+    }
+  ]
+}
