@@ -1,0 +1,1 @@
+avaliar as propostas do project18, analisar a implementação e propor a partir dessa ampla e perspicaz avaliação e analise, ideias melhores pra atingir os mesmos objetivos de forma mais inteligente ou mais evoluida/mais completa, com foco 100% em impacto real, não meramente cosmético.
